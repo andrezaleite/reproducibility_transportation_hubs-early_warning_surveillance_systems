@@ -1,2 +1,4 @@
-# reproducibility_transportation_hubs-early_warning_surveillance_systems
-transportation hubs as cornerstones sentinel points in early-warning surveillance systems 
+# Proposal of transportation hubs as cornerstones sentinel points in early-warning surveillance systems
+This repository was created for the purposes of reproducibility and publication of data and codes used in the article "Proposal of transportation hubs as cornerstones sentinel points in early-warning surveillance systems".
+
+ 
