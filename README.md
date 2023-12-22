@@ -33,8 +33,13 @@ The databases and codes used in this work will be detailed below.
 </details>
 
 ## About the project
-Loading...
+
+Responding to emerging pathogens is a top priority and requires identification of their origin and timely determination of transmission routes. In this study, we propose a data-driven approach to identify sentinel hubs for early outbreak detection systems based on the transmission routes originating in each Brazilian city leading to them. We have compiled a comprehensive dataset on human intercity mobility in Brazil, spanning air, road and waterway transport. Using the Ford-Fulkerson algorithm, we rank cities according to their suitability as sentinel hubs and determine the likely routes and number of steps it would take to achieve widespread transmission across the country. Validation with epidemiological and genetic data from SARS-CoV-2 supports our findings. Our results provide important clues for effective pathogen surveillance.
+
 ## Database Description
+
+The databases used in this work will be detailed below.
+
 ### Data for pre-selected cities
 | Resource                        | Base                | Description                                                                                                                                                             |
 |---------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -57,6 +62,10 @@ Loading...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Codes
+
+The scripts used in this work will be detailed below.
+
+
 | Resource                        | Notebooks                                 | Description                                                                                                                                                                                     |
 |---------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descriptive analysis ANAC       | Descriptive analisis ANAC.ipynb           | In this script you will find the results of the subsection: "Spatial-temporal analysis of national air transportation". The database required to run this script is aero_anac_2007_2023.parquet |
@@ -69,6 +78,7 @@ Loading...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
+
 Distributed under the CC0-1.0 license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,6 +94,8 @@ Paper Link: [Preprint](link)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
+
+Loading...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
