@@ -34,7 +34,13 @@ The databases and codes used in this work will be detailed below.
 
 ## About the project
 
-Responding to emerging pathogens is a top priority and requires identification of their origin and timely determination of transmission routes. In this study, we propose a data-driven approach to identify sentinel hubs for early outbreak detection systems based on the transmission routes originating in each Brazilian city leading to them. We have compiled a comprehensive dataset on human intercity mobility in Brazil, spanning air, road and waterway transport. Using the Ford-Fulkerson algorithm, we rank cities according to their suitability as sentinel hubs and determine the likely routes and number of steps it would take to achieve widespread transmission across the country. Validation with epidemiological and genetic data from SARS-CoV-2 supports our findings. Our results provide important clues for effective pathogen surveillance.
+**Background**: Detecting and foreseeing pathogen dispersion is crucial in preventing widespread disease transmission. Human mobility is a critical issue in human transmission of infectious agents. Through a mobility data-driven approach, we determined municipalities in Brazil that could make up an advanced sentinel network, allowing for early detection of circulating pathogens and their associated transmission routes.
+
+**Methods**: We compiled a comprehensive dataset on intercity mobility spanning air, road, and waterway transport, and constructed a graph-based representation of Brazil’s mobility network. The Ford-Fulkerson algorithm, coupled with centrality measures, were employed to rank cities according to their suitability as sentinel hubs.
+
+**Findings**: Our results disentangle the complex transportation network of Brazil, with flights alone transporting 79·9 million (CI 58·3 to 10·1 million) passengers annually during 2017-22,seasonal peaks occurring in late spring and summer, and roadways with a maximum capacity of 78·3 million passengers weekly. We ranked the 5,570 Brazilian cities to offer flexibility in prioritizing locations for early pathogen detection through clinical sample collection. Our findings are validated by epidemiological and genetic data independently collected during the SARS-CoV-2 pandemic period. The mobility-based spread model defined here was able to recapitulate the actual dissemination patterns observed during the pandemic. By providing essential clues for effective pathogen surveillance, our results have the potential to inform public health policy and improve future pandemic response efforts.
+
+**Interpretation**: Our results unlock the potential of designing country-wide clinical sample collection networks using data-informed approaches, an innovative practice that can improve current surveillance systems.
 
 ## Database Description
 
