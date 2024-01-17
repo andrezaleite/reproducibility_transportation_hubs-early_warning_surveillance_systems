@@ -1,6 +1,6 @@
-# Proposal of transportation hubs as cornerstones sentinel points in early-warning surveillance systems
+# Human mobility patterns to inform sampling sites for early pathogen detection and routes of spread: a network modeling and validation study
 <a name="readme-top"></a>
-This repository was created for the purposes of reproducibility and publication of data and codes used in the paper "Proposal of transportation hubs as cornerstones sentinel points in early-warning surveillance systems".
+This repository was created for the purposes of reproducibility and publication of data and codes used in the paper "Human mobility patterns to inform sampling sites for early pathogen detection and routes of spread: a network modeling and validation study".
 
 The databases and codes used in this work will be detailed below.
 
@@ -95,7 +95,7 @@ Paper Link: [Preprint](link)
 
 ## Acknowledgments
 
-Loading...
+This study is part of the Alert-Early System of Outbreaks with Pandemic Potential (<a href="http://aesop.health">ÆSOP</a>), an initiative under development by Brazil’s Fundação Oswaldo Cruz (Fiocruz) and the Federal University of Rio de Janeiro with financial support from the Rockefeller Foundation’s Health Initiative (Grant 2023-PPI-007 awarded to M-BN). The excellent project management and administrative support from Fundação de Apoio à Fiocruz (FIOTEC) is greatly appreciated.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
