@@ -88,7 +88,7 @@ The scripts used in this work will be detailed below.
 
 ## Dashboard
 
-A dashboard enabling direct access to state hubs ranking, gateway cities and paths of transmissions is  (<a href="[http://aesop.health](https://aesop.outerlamce.com/sankey)">available</a>) and described in the repository, under the visualization folder.
+A dashboard enabling direct access to state hubs ranking, gateway cities and paths of transmissions is  (<a href="https://aesop.outerlamce.com/sankey)">available</a>) and described in the repository, under the visualization folder.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
