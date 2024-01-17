@@ -26,6 +26,9 @@ The databases and codes used in this work will be detailed below.
     <li>
       <a href="#codes">Codes</a>
     </li>
+    <li>
+      <a href="#dashboard">Dashboard</a>
+    </li>
     <li><a href="#license">License</a></li>
     <li><a href="#authors-and-contact">Authors and Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -80,6 +83,12 @@ The scripts used in this work will be detailed below.
 | Ford Fulkerson                  | FF_RJ_Parallel.ipynb                      | Code to run the FF alghorithm and generate the analysis of the manuscript.                                                                                                                      |
 | Validation covid (alpha)        | path_validation_covid_cases.ipynb         | Script to access Epidemiological validation of pathogen transmission pathways. The open databases are detailed on the notebook                                                                  |
 | Validation covid (gamma)        | path_validation_covid_variate_gamma.ipynb | Script to access dissemination of the Gamma variant from Manaus. The open databases are detailed on the notebook                                                                                |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Dashboard
+
+A dashboard enabling direct access to state hubs ranking, gateway cities and paths of transmissions is  (<a href="[http://aesop.health](https://aesop.outerlamce.com/sankey)">available</a>) and described in the repository, under the visualization folder.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
