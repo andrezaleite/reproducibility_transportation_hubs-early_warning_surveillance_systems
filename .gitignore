@@ -1,0 +1,65 @@
+
+code/Matrix monthly/adjacency_matrix_complete_1.parquet
+code/Matrix monthly/adjacency_matrix_complete_10.parquet
+code/Matrix monthly/adjacency_matrix_complete_11.parquet
+code/Matrix monthly/adjacency_matrix_complete_12.parquet
+code/Matrix monthly/adjacency_matrix_complete_2.parquet
+code/Matrix monthly/adjacency_matrix_complete_3.parquet
+code/Matrix monthly/adjacency_matrix_complete_4.parquet
+code/Matrix monthly/adjacency_matrix_complete_5.parquet
+code/Matrix monthly/adjacency_matrix_complete_6.parquet
+code/Matrix monthly/adjacency_matrix_complete_7.parquet
+code/Matrix monthly/adjacency_matrix_complete_8.parquet
+code/Matrix monthly/adjacency_matrix_complete_9.parquet
+data/adjacency_matrix_month_1.parquet
+data/adjacency_matrix_month_12.parquet
+data/adjacency_matrix_month_4.parquet
+data/adjacency_matrix_month_6.parquet
+data/adjacency_matrix_month_7.parquet
+data/cities_metrics_all.csv
+data/covid-19-gamma.zip
+data/DTB_BRASIL_MUNICIPIO.csv
+data/Fig.Discretemap.pdf
+data/hub_pop_density.csv
+data/hubs_IBGE_metric.csv
+data/lists_of_hubs.csv
+data/ms_and_mob_70.csv
+data/phylogeo_codigo_R.ipynb
+data/Phylogeography.zip
+data/Phylogeography/BFs_b1_clade_i.csv
+data/Phylogeography/BFs_b1_clade_ii.csv
+data/Phylogeography/cap_meta_id_clade_i.csv
+data/Phylogeography/cap_meta_id_clade_ii.csv
+data/Phylogeography/clade_i_jumps-date.csv
+data/Phylogeography/clade_i_jumps.csv
+data/Phylogeography/clade_ii_jumps-date.csv
+data/Phylogeography/clade_ii_jumps.csv
+data/Phylogeography/coord_clade_i_loc.csv
+data/Phylogeography/coord_clade_ii_loc.csv
+data/Phylogeography/Fig.Discretemap.pdf
+data/Phylogeography/MJs2_b1_clade_i.csv
+data/Phylogeography/MJs2_b1_clade_ii.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/.Rhistory
+data/Phylogeography/Phylogeography-Darlan/Continuous/All_Brazilian_states.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/All_dispersal_statistics/All_among_states_transition_events.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/All_dispersal_statistics/All_within_state_transition_events.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/All_dispersal_statistics/Within_vs_among_states_transitions.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/MCC_tree_extraction.r
+data/Phylogeography/Phylogeography-Darlan/Continuous/MCC_tree_from_DTA.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/MCC_tree_from_DTA.tree
+data/Phylogeography/Phylogeography-Darlan/Continuous/Phylogenetic_analyses.r
+data/Phylogeography/Phylogeography-Darlan/Continuous/Sampling_in_Brazil.csv
+data/Phylogeography/Phylogeography-Darlan/Continuous/TreeTime_RRW_temp.xml
+data/Phylogeography/Phylogeography-Darlan/Continuous/WorldPop_pop_log10.asc
+data/Phylogeography/Phylogeography-Darlan/Continuous/XML_file_for_the_DTA.xml
+data/Phylogeography/Phylogeography-Darlan/Discrete/Brazil_or_not_data.txt
+data/Phylogeography/Phylogeography-Darlan/Discrete/CADDE_data.txt
+data/Phylogeography/Phylogeography-Darlan/Discrete/empirical.trees
+data/Phylogeography/Phylogeography-Darlan/Discrete/FigS8/FigS8.pdf
+data/Phylogeography/Phylogeography-Darlan/Discrete/FigS8/MCC.tre
+data/Phylogeography/Phylogeography-Darlan/Discrete/MCC.tre
+data/Phylogeography/Phylogeography-Darlan/Discrete/phylogeo_complete_history_MJumps.xml
+data/Phylogeography/Phylogeography-Darlan/Discrete/region_data.txt
+data/Phylogeography/Phylogeography-Darlan/Discrete/Region_global_data.txt
+data/Phylogeography/Phylogeography-Darlan/Discrete/state_data.txt
+data/hub_pop_density.csv

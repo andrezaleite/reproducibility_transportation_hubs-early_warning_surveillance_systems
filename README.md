@@ -3,6 +3,7 @@
 This repository was created for the purposes of reproducibility and publication of data and codes used in the paper "Human mobility patterns to inform sampling sites for early pathogen detection and routes of spread: a network modeling and validation study".
 
 The databases and codes used in this work will be detailed below.
+To access the data used in the work go to https://doi.org/10.5061/dryad.bzkh189j5.
 
 <!-- TABLE OF CONTENTS -->
 <details>
