@@ -63,3 +63,19 @@ data/Phylogeography/Phylogeography-Darlan/Discrete/region_data.txt
 data/Phylogeography/Phylogeography-Darlan/Discrete/Region_global_data.txt
 data/Phylogeography/Phylogeography-Darlan/Discrete/state_data.txt
 data/hub_pop_density.csv
+code/code.zip
+data/correspondencia.csv
+data/final_data_clade_i.csv
+data/final_data_clade_ii.csv
+data/Matrix monthly/adjacency_matrix_complete_1.parquet
+data/Matrix monthly/adjacency_matrix_complete_10.parquet
+data/Matrix monthly/adjacency_matrix_complete_11.parquet
+data/Matrix monthly/adjacency_matrix_complete_12.parquet
+data/Matrix monthly/adjacency_matrix_complete_2.parquet
+data/Matrix monthly/adjacency_matrix_complete_3.parquet
+data/Matrix monthly/adjacency_matrix_complete_4.parquet
+data/Matrix monthly/adjacency_matrix_complete_5.parquet
+data/Matrix monthly/adjacency_matrix_complete_6.parquet
+data/Matrix monthly/adjacency_matrix_complete_7.parquet
+data/Matrix monthly/adjacency_matrix_complete_8.parquet
+data/Matrix monthly/adjacency_matrix_complete_9.parquet

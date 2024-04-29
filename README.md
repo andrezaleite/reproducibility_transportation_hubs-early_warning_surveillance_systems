@@ -38,13 +38,16 @@ To access the data used in the work go to https://doi.org/10.5061/dryad.bzkh189j
 
 ## About the project
 
-**Background**: Detecting and foreseeing pathogen dispersion is crucial in preventing widespread disease transmission. Human mobility is a critical issue in human transmission of infectious agents. Through a mobility data-driven approach, we determined municipalities in Brazil that could make up an advanced sentinel network, allowing for early detection of circulating pathogens and their associated transmission routes.
+**Background**: Detecting and foreseeing pathogen dispersion is crucial in preventing widespread disease transmission. Human mobility is a critical issue in human transmission of infectious agents. Through a mobility data-driven approach, we determined municipalities in Brazil that could make up an advanced sentinel network, allowing for early detection of circulating pathogens and their associated transmission routes. 
 
-**Methods**: We compiled a comprehensive dataset on intercity mobility spanning air, road, and waterway transport, and constructed a graph-based representation of Brazil’s mobility network. The Ford-Fulkerson algorithm, coupled with centrality measures, were employed to rank cities according to their suitability as sentinel hubs.
+**Methods**: We compiled a comprehensive dataset on intercity mobility spanning air, road, and waterway transport and constructed a graph-based representation of Brazil’s mobility network. The Ford-Fulkerson algorithm was employed to rank cities according to their suitability as sentinel hubs.
 
-**Findings**: Our results disentangle the complex transportation network of Brazil, with flights alone transporting 79·9 million (CI 58·3 to 10·1 million) passengers annually during 2017-22,seasonal peaks occurring in late spring and summer, and roadways with a maximum capacity of 78·3 million passengers weekly. We ranked the 5,570 Brazilian cities to offer flexibility in prioritizing locations for early pathogen detection through clinical sample collection. Our findings are validated by epidemiological and genetic data independently collected during the SARS-CoV-2 pandemic period. The mobility-based spread model defined here was able to recapitulate the actual dissemination patterns observed during the pandemic. By providing essential clues for effective pathogen surveillance, our results have the potential to inform public health policy and improve future pandemic response efforts.
+**Findings**: Our results disentangle the complex transportation network of Brazil, with flights alone transporting 79·9 million (CI 58·3 to 101·41 million) passengers annually during 2017-22, seasonal peaks occurring in late spring and summer, and roadways with a maximum capacity of 78·3 million passengers weekly. We ranked the 5,570 Brazilian cities to offer flexibility in prioritizing locations for early pathogen detection through clinical sample collection. In particular, considering mobility patterns to strategically relocate the sentinel units in Brazil's existing flu syndrome surveillance network, we achieved a 17.6% improvement in mobility coverage without the need to increase the number of sentinel sites. Our findings are validated by genetic data collected during the SARS-CoV-2 pandemic period. The proposed mobility-based spread model could recapitulate the dissemination patterns observed during the pandemic. By providing essential clues for effective pathogen surveillance, our results have the potential to inform public health policy and improve future pandemic response efforts.
 
-**Interpretation**: Our results unlock the potential of designing country-wide clinical sample collection networks using data-informed approaches, an innovative practice that can improve current surveillance systems.
+**Interpretation**: Our results unlock the potential of designing country-wide clinical sample collection networks using mobility data-informed approaches, an innovative practice that can improve current surveillance systems.
+
+**Funding**: Rockefeller Foundation grant 2023-PPI-007 awarded to MB-N.
+
 
 ## Database Description
 
