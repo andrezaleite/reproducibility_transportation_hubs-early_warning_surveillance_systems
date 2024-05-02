@@ -56,21 +56,23 @@ The databases used in this work will be detailed below.
 ### Data for pre-selected cities
 | Resource                        | Base                | Description                                                                                                                                                             |
 |---------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Proximity and Betweeness indexs | hub_pop_density.csv | Metrics associated with each municipality are employed to rank cities based on their network importance, as outlined in the manuscript. Variables description at Dic 1. |
+| Proximity, Betweenness indexes, density and pagerank | cities_metrics_all.csv | Metrics associated with each municipality are employed to rank cities based on their network importance, as outlined in the manuscript.|
 
 ### Data to run Ford Fulkerson Algoritm
 | Resource         | Base                             | Description                                                                                                                    |
 |------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Adjacency matrix | adjacency_matrix_correct.parquet | Matrix describing intercity connection. Cities are identifyed according to the IBGE code provided in the hub_pop_density data. |
+| Adjacency matrix | adjacency_matrix_correct.parquet | Matrix describing intercity connection. Cities are identified according to the IBGE code provided in the hub_pop_density data. |
+| Temporality analysis | adjacency_matrix_month_1.parquet; adjacency_matrix_month_4.parquet; adjacency_matrix_month_6.parquet; adjacency_matrix_month_7.parquet; adjacency_matrix_month_12.parquet | Matrix describing intercity connection for each month observed in temporality analysis for São Paulo, Rio de Janeiro, Recife e Manaus |
+
 
 ### Raw data for figures
 | Resource                                                                                    | Base                        | Description                                                                                                        |
 |---------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Figure 1: Average passenger volume in the air mobility network from 2017 to 2022            | aero_anac_2007_2023.parquet | Raw data used to plot figure 1 of the manuscript                                                                   |
-| Figure 2: Brazilian mobility network for road and water transportation.                     | fluvi_road_ibge.parquet     | Raw data to reproduce Figure 2 of the manuscript.                                                                  |
-| Figure 3: Mobility patterns from Manaus/AM, Recife/PE, Rio de Janeiro/RJ, and São Paulo/SP. | union_paths.csv             | Raw data to reproduce Figure 3 of the manuscript.                                                                  |
-| Figure 4: Transmission path patterns of cities in Acre State                                | union_paths.csv             | Raw data to reproduce Figure 4 of the manuscript.                                                                  |
-| Figure 5: Epidemiological validation of pathogen transmission pathways.                     | municipios.csv              | "Raw data to reproduce Figure 5 of the manuscript. Use ""validação covid alfa"" script to help getting the plot."  |
+| Figure 1: Average passenger volume in the air mobility network from 2017 to 2022            | aero_anac_2017_2023.parquet | Raw data used to plot figure 1 of the manuscript                                                                   |
+| Figure 2: Mobility patterns from Manaus/AM, Recife/PE, Rio de Janeiro/RJ, and São Paulo/SP. | adjacency_matrix_correct.parquet     | Raw data to reproduce Figure 2 of the manuscript.                                                                  |
+| Figure 3: Transmission routes for cities in the state of Acre, North Brazil. | adjacency_matrix_correct.parquet             | Raw data to reproduce Figure 3 of the manuscript.                                                                  |
+| Figure 4: Comparing the mobility-informed configuration for clinical sample collection to the current sentinel network | ms_and_mob_70.csv            | Raw data to reproduce Figure 4 of the manuscript.                                                                  |
+| Figure 5: Epidemiological validation of pathogen transmission pathways                     | municipios.csv; Phylo_clade_i_rj_grouped_with_mobility.csv; Phylo_clade_i_sp_grouped_with_mobility.csv; Phylo_clade_ii_sp_grouped_with_mobility.csv;  Phylo_clade_ii_rj_grouped_with_mobility.csv             | Raw data to reproduce Figure 5 of the manuscript.|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,8 +87,6 @@ The scripts used in this work will be detailed below.
 | Descriptive analysis IBGE       | Descriptive analysis IBGE.ipynb           | In this script you will find the results of the subsection: "Brazilian road and fluvial intercity mobility landscape". The database required to run this script is fluvi_road_ibge.parquet      |
 | Proximity and Betweeness indexs | Hub analysis with IBGE indicators.ipynb   | Code to select cities according to the BI index.                                                                                                                                                |
 | Ford Fulkerson                  | FF_RJ_Parallel.ipynb                      | Code to run the FF alghorithm and generate the analysis of the manuscript.                                                                                                                      |
-| Validation covid (alpha)        | path_validation_covid_cases.ipynb         | Script to access Epidemiological validation of pathogen transmission pathways. The open databases are detailed on the notebook                                                                  |
-| Validation covid (gamma)        | path_validation_covid_variate_gamma.ipynb | Script to access dissemination of the Gamma variant from Manaus. The open databases are detailed on the notebook                                                                                |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
